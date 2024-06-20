@@ -862,7 +862,10 @@ export default defineComponent({
                 'admin-development',
                 'admin-settings',
                 'marketplace',
-                'plugin'
+                'plugin',
+                'crosshair',
+                'dollar-sign',
+                'equal',
             ],
         ];
         // @phpcs:enable Generic.Files.LineLength
